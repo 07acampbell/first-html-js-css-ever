@@ -1,0 +1,72 @@
+#crash {
+       top:135px;
+       left:390px;
+       width:20px;
+       height:40px;
+       position: absolute;
+       z-index: 2;
+       background: orange; 
+       }
+
+#hihat {
+       top:40px;
+       left:355px;
+       width:20px;
+       height:40px;
+       position: absolute;
+       z-index: 2;
+       background: orange; 
+       }
+
+#snare {
+       top:235px;
+       left:267px;
+			 width:20px;
+       height:40px;
+       position: absolute;
+       z-index: 2;
+       background: orange; 
+}
+
+#kick {
+       top:150px;
+       left:347px;
+			 width:20px;
+       height:40px;
+       position: absolute;
+       z-index: 2;
+       background: orange; 
+}
+
+#ride {
+	top:84px;
+  left:120px;
+	width:20px;
+	height:40px;
+  position: absolute;
+  z-index: 2;
+  background: orange; 
+}
+
+
+
+body
+{
+	margin: 42px;
+	padding: 0px;
+	background-color:rgb(235, 247, 221);
+
+	font-family: Arial, Helvetica, "sans-serif";
+	font-size: 24px;
+	color: rgb(255, 0, 0);
+	text-align: left;
+}
+
+
+#drum_container {
+	position: absolute
+}
+
+#character-string {
+	color:(255,0,0)
+}
